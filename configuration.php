@@ -1,8 +1,6 @@
-
-
 <?php
 class JConfig {
-	public $offline = '1';
+	public $offline = '0';
 	public $offline_message = 'Sito fuori servizio per manutenzione.<br /> Riprovare più tardi.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
